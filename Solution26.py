@@ -8,7 +8,7 @@ class Solution:
                 nums[i] = nums[j]
                 i += 1
             else: 
-                continue
+                j += 1
 
         return i
 
