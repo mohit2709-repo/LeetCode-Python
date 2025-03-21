@@ -7,4 +7,4 @@ class Solution:
                 spointer += 1
             tpointer += 1
 
-        return spointer == len(s)
+        return spointer == len(s)ri
