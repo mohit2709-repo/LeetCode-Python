@@ -5,7 +5,7 @@ class Solution:
         if n ==2 :
             return 2
 
-        total = [0] * (n-1)
+        total = [0] * (n+1)
         total[1] = 1
         total[2] = 2
 
